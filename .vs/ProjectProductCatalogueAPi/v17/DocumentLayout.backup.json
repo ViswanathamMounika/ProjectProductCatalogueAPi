@@ -87,8 +87,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T09:00:32.364Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -110,7 +109,7 @@
               "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T12:24:53.522Z",
               "EditorCaption": ""
@@ -125,8 +124,7 @@
               "RelativeToolTip": "FluentiAPi\\EfRepo.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:13:43.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T09:13:43.765Z"
             },
             {
               "$type": "Document",
@@ -138,8 +136,7 @@
               "RelativeToolTip": "BussinessLogic\\Mapper.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAswCgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:10:29.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T09:10:29.252Z"
             },
             {
               "$type": "Document",
@@ -151,8 +148,7 @@
               "RelativeToolTip": "ProjectProductCatalogueAPi\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:43:33.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T10:43:33.995Z"
             },
             {
               "$type": "Document",
@@ -164,8 +160,7 @@
               "RelativeToolTip": "BussinessLogic\\Logic.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:50:11.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T08:50:11.293Z"
             },
             {
               "$type": "Document",
@@ -177,8 +172,7 @@
               "RelativeToolTip": "FluentiAPi\\Entities\\HackathonContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T03:35:52.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T03:35:52.049Z"
             },
             {
               "$type": "Document",
@@ -202,8 +196,7 @@
               "RelativeToolTip": "ProjectProductCatalogueAPi\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T11:00:18.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T11:00:18.938Z"
             },
             {
               "$type": "Document",
