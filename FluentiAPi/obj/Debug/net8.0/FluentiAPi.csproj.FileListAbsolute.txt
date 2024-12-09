@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\bin\Debug\net8.0\FluentiAPi.deps.json
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\bin\Debug\net8.0\FluentiAPi.runtimeconfig.json
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\bin\Debug\net8.0\FluentiAPi.dll
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\bin\Debug\net8.0\FluentiAPi.pdb
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.dll
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\refint\FluentiAPi.dll
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.pdb
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\FluentiAPi.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProjectProductCatalogueAPi\FluentiAPi\obj\Debug\net8.0\ref\FluentiAPi.dll

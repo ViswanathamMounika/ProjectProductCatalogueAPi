@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\projectproductcatalogueapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|solutionrelative:projectproductcatalogueapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084706EF-F3FC-43F8-8E41-B71E03383F85}|BussinessLogic\\BussinessLogic.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\bussinesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084706EF-F3FC-43F8-8E41-B71E03383F85}|BussinessLogic\\BussinessLogic.csproj|solutionrelative:bussinesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084706EF-F3FC-43F8-8E41-B71E03383F85}|BussinessLogic\\BussinessLogic.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\bussinesslogic\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084706EF-F3FC-43F8-8E41-B71E03383F85}|BussinessLogic\\BussinessLogic.csproj|solutionrelative:bussinesslogic\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B599C912-75CD-4C8C-8853-929570C0473D}|Models\\Models.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B599C912-75CD-4C8C-8853-929570C0473D}|Models\\Models.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\fluentiapi\\efrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|solutionrelative:fluentiapi\\efrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\fluentiapi\\entities\\hackathoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|solutionrelative:fluentiapi\\entities\\hackathoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\projectproductcatalogueapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|solutionrelative:projectproductcatalogueapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\projectproductcatalogueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|solutionrelative:projectproductcatalogueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\fluentiapi\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|solutionrelative:fluentiapi\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\fluentiapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|solutionrelative:fluentiapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\fluentiapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|solutionrelative:fluentiapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\fluentiapi\\catpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B59E4-1902-4C32-AA3E-F57F84B7011F}|FluentiAPi\\FluentiAPi.csproj|solutionrelative:fluentiapi\\catpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084706EF-F3FC-43F8-8E41-B71E03383F85}|BussinessLogic\\BussinessLogic.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\bussinesslogic\\ilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084706EF-F3FC-43F8-8E41-B71E03383F85}|BussinessLogic\\BussinessLogic.csproj|solutionrelative:bussinesslogic\\ilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\projectproductcatalogueapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|solutionrelative:projectproductcatalogueapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\projectproductcatalogueapi\\projectproductcatalogueapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|solutionrelative:projectproductcatalogueapi\\projectproductcatalogueapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|c:\\users\\hp\\source\\repos\\projectproductcatalogueapi\\projectproductcatalogueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA22C851-2328-4A66-BA25-249AD1D991EB}|ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj|solutionrelative:projectproductcatalogueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\Models\\product.cs",
+              "RelativeDocumentMoniker": "Models\\product.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\Models\\product.cs",
+              "RelativeToolTip": "Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:00:32.364Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\IRepo.cs",
+              "RelativeDocumentMoniker": "FluentiAPi\\IRepo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\IRepo.cs",
+              "RelativeToolTip": "FluentiAPi\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:50:27.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjectProductCatalogueAPi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:24:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\EfRepo.cs",
+              "RelativeDocumentMoniker": "FluentiAPi\\EfRepo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\EfRepo.cs",
+              "RelativeToolTip": "FluentiAPi\\EfRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:13:43.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\BussinessLogic\\Mapper.cs",
+              "RelativeDocumentMoniker": "BussinessLogic\\Mapper.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\BussinessLogic\\Mapper.cs",
+              "RelativeToolTip": "BussinessLogic\\Mapper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:10:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProjectProductCatalogueAPi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:43:33.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\BussinessLogic\\Logic.cs",
+              "RelativeDocumentMoniker": "BussinessLogic\\Logic.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\BussinessLogic\\Logic.cs",
+              "RelativeToolTip": "BussinessLogic\\Logic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:50:11.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HackathonContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\Entities\\HackathonContext.cs",
+              "RelativeDocumentMoniker": "FluentiAPi\\Entities\\HackathonContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\Entities\\HackathonContext.cs",
+              "RelativeToolTip": "FluentiAPi\\Entities\\HackathonContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:35:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "FluentiAPi\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\Entities\\Category.cs",
+              "RelativeToolTip": "FluentiAPi\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:35:58.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Program.cs",
+              "RelativeToolTip": "ProjectProductCatalogueAPi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:00:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "catpro.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\catpro.cs",
+              "RelativeDocumentMoniker": "FluentiAPi\\catpro.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\catpro.cs",
+              "RelativeToolTip": "FluentiAPi\\catpro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:14:30.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "FluentiAPi\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\FluentiAPi\\Entities\\Product.cs",
+              "RelativeToolTip": "FluentiAPi\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:33:34.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILogic.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\BussinessLogic\\ILogic.cs",
+              "RelativeDocumentMoniker": "BussinessLogic\\ILogic.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\BussinessLogic\\ILogic.cs",
+              "RelativeToolTip": "BussinessLogic\\ILogic.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:28:20.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectProductCatalogueAPi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T14:30:34.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\appsettings.json",
+              "RelativeToolTip": "ProjectProductCatalogueAPi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T14:30:24.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectProductCatalogueAPi",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj",
+              "RelativeDocumentMoniker": "ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj",
+              "RelativeToolTip": "ProjectProductCatalogueAPi\\ProjectProductCatalogueAPi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T14:56:18.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
